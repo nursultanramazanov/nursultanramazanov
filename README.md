@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...I'm in college now
 - 💞️ I’m looking to collaborate on ...i want to collaborate at work
 - 📫 How to reach me ...aksu settlement musrepova street 31/1
-- 
-
-
+- 🧠🎮 
+- 🐧🐦🐤🎮  — Foul Play
+- 🕉
 
 
 
