@@ -20,10 +20,8 @@ Here are some ideas to get you started:
     <meta charset="utf-8">
   <link rel="dns-prefetch" href="https://github.githubassets.com">
   <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
-  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
   <link rel="dns-prefetch" href="https://nuram.com
-
+  
 
   <link crossorigin="anonymous" media="all" integrity="sha512-rF3cnLJE5IkKUWFkw54emxUMV82DhbZ9aJun83zhvBgJ7J7ZXC20bEFVuLY9RRRC60Ig+pHQO57DuYBrYO+cAA==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-ac5ddc9cb244e4890a516164c39e1e9b.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-8I/bgrYWH6K8ipOHN615tNB8ijMx7rnN3B1rdna/hp+hETh/WgkjRqVrEB6kn7lZBLHnObnIj2fGRGHg3hB6vQ==" rel="stylesheet" href="https://github.githubassets.com/assets/site-f08fdb82b6161fa2bc8a938737ad79b4.css" />
