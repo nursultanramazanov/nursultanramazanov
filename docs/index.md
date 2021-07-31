@@ -23,11 +23,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-http://ww16.nuram.com/?sub1=20210731-2037-34bf-b442-7847225a884f ![Image](src)
+ ![Image](src)
 ```
 
 
-
+http://ww16.nuram.com/?sub1=20210731-2037-34bf-b442-7847225a884f
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nursultanramazanov/nursultanramazanov/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
