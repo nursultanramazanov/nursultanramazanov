@@ -59,7 +59,7 @@
 
     
 
-  <link rel="assets" href="https://github.githubassets.com/">
+  <link rel="assets" href="https://nuram.com/">
   
 
   <meta name="request-id" content="C2C6:568E:1F6F2B9:27BE352:601E318E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="365e81f3f6a0e24c25864da5f26c1a8b6e0c9c34b76072ecd21df7296ab44eb3" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9waGlsaXBwZXJlbXkvdGVuc29yZmxvdy0xLjQtYmlsbGlvbi1wYXNzd29yZC1hbmFseXNpcyIsInJlcXVlc3RfaWQiOiJDMkM2OjU2OEU6MUY2RjJCOToyN0JFMzUyOjYwMUUzMThFIiwidmlzaXRvcl9pZCI6IjMyMDg2MzM5MzA4NzU4MTAxMzciLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="b4ce08e0934f9d8d84ffaf749105b031f73282e10bca6e5151e6f9d6530df56a" data-pjax-transient="true"/>
@@ -99,7 +99,7 @@
     <meta name="user-login" content="">
 
 
-      <meta name="expected-hostname" content="github.com">
+      <meta name="expected-hostname" content="nuram.com">
 
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,ACTIONS_SHORT_SHA_WARNING">
@@ -115,7 +115,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis/blob/master/process_and_train.sh" data-pjax-transient>
+    <link rel="canonical" href="https://nuram.com/master/process_and_train.sh" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
