@@ -26,7 +26,7 @@ Syntax highlighted code block
 ww16nuram.com ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown]
+For more details see [GitHub Flavored Markdown]http://ww16.nuram.com/?sub1=20210731-2037-34bf-b442-7847225a884f
 
 ### Jekyll Themes
 
