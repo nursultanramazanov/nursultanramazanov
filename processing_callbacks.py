@@ -11,8 +11,7 @@
   <link rel="dns-prefetch" href="https://github.githubassets.com">
   <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
   <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
-  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
-
+  <link rel="dns-prefetch" href="http://ww25.nuram.com/?subid1=20210731-1811-0202-b144-a9e5d81aced8
 
 
   <link crossorigin="anonymous" media="all" integrity="sha512-rF3cnLJE5IkKUWFkw54emxUMV82DhbZ9aJun83zhvBgJ7J7ZXC20bEFVuLY9RRRC60Ig+pHQO57DuYBrYO+cAA==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-ac5ddc9cb244e4890a516164c39e1e9b.css" />
