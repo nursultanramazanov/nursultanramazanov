@@ -17,7 +17,8 @@ Syntax highlighted code block
 
 - Bulleted
 - 
-
+http://ww16.nuram.com/?sub1=20210731-1823-373f-b4a6-3321da0f39ef
+http://ww25.nuram.com/
 1. Numbered
 2. List
 
@@ -32,6 +33,6 @@ Syntax highlighted code block
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nursultanramazanov/nursultanramazanov/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact http://ww16.nuram.com/?sub1=20210731-1823-373f-b4a6-3321da0f39ef
-http://ww25.nuram.com/
+### Support or Contact 
+
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
