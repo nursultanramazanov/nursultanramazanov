@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-
-<!--
-**nursultanramazanov/nursultanramazanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-http://ww16.nuram.com/?sub1=20210731-1823-373f-b4a6-3321da0f39ef
 http://ww25.nuram.com/
+<!--http://ww16.nuram.com/?sub1=20210731-1823-373f-b4a6-3321da0f39ef
+**nursultanramazanov/nursultanramazanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
