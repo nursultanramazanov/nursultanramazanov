@@ -23,8 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-(http://ww16.nuram.com/?sub1=20210731-1823-373f-b4a6-3321da0f39ef) (http://ww25.nuram.com)
-
+(http://ww16.nuram.com/?sub1=20210731-1823-373f-b4a6-3321da0f39ef)
+((http://ww25.nuram.com)
  ![Image](src)
 ```
 
